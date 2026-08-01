@@ -32,7 +32,7 @@ Every human action is stored in **hitl_feedback.csv**, creating a complete audit
 - Automatic feedback logging
 - Interactive widgets using ipywidgets
 - Performance visualization
-- YOLOv8 object detection
+- YOLOv8 Object Detection
 
 ---
 
